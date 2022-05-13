@@ -1,0 +1,6 @@
+.posts{
+    flex: 9;
+    display: flex;
+    flex-wrap: wrap;/*it will wrap it in next row if row overflows*/
+    margin: 20px;
+}
